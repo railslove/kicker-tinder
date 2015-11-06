@@ -1,0 +1,14 @@
+development:
+  adapter:  postgresql
+  host:     localhost
+  encoding: unicode
+  database: kicker_org_development
+  pool:     5
+
+test:
+  adapter:  postgresql
+  host:     localhost
+  encoding: unicode
+  database: kicker_org_test
+  pool:     5
+

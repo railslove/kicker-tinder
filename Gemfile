@@ -7,6 +7,8 @@ gem 'rails', github: 'rails/rails'
 gem 'rack', github: 'rack/rack'
 gem 'arel', github: 'rails/arel'
 
+gem 'pg'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
